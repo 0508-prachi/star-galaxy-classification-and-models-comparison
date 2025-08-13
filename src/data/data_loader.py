@@ -1,0 +1,3 @@
+astronomy_train_generator = astronomy_datagen.flow_from_directory(
+astronomy_validation_generator = astronomy_datagen.flow_from_directory(
+astronomy_test_generator = astronomy_datagen.flow_from_directory(

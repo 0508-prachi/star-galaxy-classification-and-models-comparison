@@ -1,0 +1,1 @@
+astronomy_rf.fit(X_train, y_train)

@@ -1,0 +1,11 @@
+plt.imshow(augmented_img)
+plt.imshow(normal_img)
+plt.plot(history.history['loss'], label='Training')
+plt.plot(history.history['val_loss'], label='Validation')
+plt.plot(history.history['accuracy'], label='Training')
+plt.plot(history.history['val_accuracy'], label='Validation')
+plt.plot(fpr, tpr, color='blue', lw=2,
+plt.plot([0, 1], [0, 1], color='red', lw=2, linestyle='--')
+  plt.imshow(astronomy_X[i].reshape(rf_image_shape), cmap="gray")
+plt.plot(false_positive_rate, true_positive_rate, label=f'AUC = {rf_auc:.2f}')
+plt.plot([0, 1], [0, 1], 'k--')
