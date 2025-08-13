@@ -1,7 +1,7 @@
 # Star–Galaxy Image Classification (CNN vs Random Forest)
 
 **Author:** Prachi Diwan 
-📄 **Full Dissertation (PDF):** [`docs/PrachiDiwan_MSc_FinalProject.pdf`](docs/PrachiDiwan_MSc_FinalProject.pdf)  
+📄 **Full Dissertation (PDF):** [`docs/PrachiDiwan_MSc_FinalProject.pdf`](docs/MSc_FinalProjectWork_PrachiDiwan.pdf)  
 
 > Binary classification of astronomical images into **stars** vs **galaxies**, comparing a from-scratch **Convolutional Neural Network (CNN)** with a **Random Forest (RF)** baseline.  
 > Achieved **~94% accuracy** (CNN) and **~75% accuracy** (RF), demonstrating the advantages of deep learning for image-based astronomy.
