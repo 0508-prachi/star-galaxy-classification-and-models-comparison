@@ -4,7 +4,7 @@
 📄 **Full Dissertation (PDF):** [`docs/PrachiDiwan_MSc_FinalProject.pdf`](docs/MSc_FinalProjectWork_PrachiDiwan.pdf)  
 
 > Binary classification of astronomical images into **stars** vs **galaxies**, comparing a from-scratch **Convolutional Neural Network (CNN)** with a **Random Forest (RF)** baseline.  
-> Achieved **~94% accuracy** (CNN) and **~75% accuracy** (RF), demonstrating the advantages of deep learning for image-based astronomy.
+> Achieved **~92% accuracy** (CNN) and **~75% accuracy** (RF), demonstrating the advantages of deep learning for image-based astronomy.
 
 ---
 
@@ -31,5 +31,5 @@ Dataset: **3,986 images** (64×64) – **3,044 stars**, **942 galaxies** (CC0 Li
 
 | Model        | Accuracy | ROC-AUC | Notes |
 |--------------|----------|---------|-------|
-| **CNN**      | ~94%     | ~0.98   | Strong separation between classes |
+| **CNN**      | ~92%     | ~0.98   | Strong separation between classes |
 | **Random Forest** | ~75%     | ~0.81   | Good baseline; less robust for galaxies |
